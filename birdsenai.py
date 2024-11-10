@@ -9,7 +9,6 @@ import sys
 # Inicializa o mixer de áudio
 pygame.mixer.init()
 
-
 # Carrega o arquivo de som
 pygame.mixer.music.load("sonscerrado.mp3")
 
